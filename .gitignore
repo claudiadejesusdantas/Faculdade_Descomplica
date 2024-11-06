@@ -1,0 +1,15 @@
+# Ignorar arquivos do Node.js
+node_modules/
+
+# Ignorar arquivos em cache
+.cache/
+
+# Ignorar arquivos de log
+*.log
+
+# Ignorar arquivos de backup
+*.swp
+
+#Ignorar testes
+teste2.java
+
